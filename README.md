@@ -2,8 +2,7 @@ readme_content = """
 # DebugMate 🧠
 
 **Your AI-powered debugging teammate.**  
-Live demo: [https://debugmate.vercel.app](https://debugmate.vercel.app)
-
+Live demo: https://tempo-deployment-93eec97a-a8ee-4e21-861c-bd0e4b7e670-darprp3hh.vercel.app/
 ---
 
 ## ✨ Features
