@@ -31,22 +31,7 @@ Your AI-powered debugging teammate.
 ### About
 [debugmate.vercel.app](https://debugmate.vercel.app)
 
-### Resources
-- **Readme**  
-- **Activity**
 
-### Stats
-- **Stars**: 0 stars  
-- **Watchers**: 1 watching  
-- **Forks**: 0 forks  
-- **Releases**: No releases published  
-
-### Suggested Workflows
-Based on your tech stack:
-
-- **Gulp**: Build a NodeJS project with npm and gulp.
-- **Grunt**: Build a NodeJS project with npm and grunt.
-- **SLSA Generic generator**: Generate SLSA3 provenance for your existing release workflows.
 
 ### Footer
 
